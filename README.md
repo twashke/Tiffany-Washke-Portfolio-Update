@@ -72,6 +72,9 @@ Updated **Resume** Section \
 \
 **Contact** Section \
 ![Contact Section](Assets/images/contact-me-section.png)
+\
+Updated [GitHub](https://github.com/twashke) \
+![GitHub Updated](Assets/images/github-updated.png)
 
 ## Contributing
 
