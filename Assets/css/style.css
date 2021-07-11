@@ -313,7 +313,7 @@ a:active {
 .project_3,
 .project_4,
 .project_5 {
-  border: 5px double var(--gray);
+  border: 3.5px double var(--gray);
   font-weight: bolder;
   text-align: center;
   padding: 10px;
