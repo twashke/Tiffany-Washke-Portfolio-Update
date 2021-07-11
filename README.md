@@ -20,7 +20,7 @@ A portfolio website about [Tiffany Washke](https://twashke.github.io/Tiffany-Was
 - Updated portfolio for Tiffany Washke utilizing HTML, CSS, Bulma Framework, Google Fonts, and Javascript.
 - Portfolio was designed to be mobile first and also fits desktop screens.
 - The **Resume** section has been updated, including the linked PDF Resume.
-- The **Work** section has been updated with the most recent group project [Happy Little Art Galler](https://happylittleartgallery072021.herokuapp.com/) and more recent homework assignments ([Employee Tracker](https://github.com/twashke/Employee-Tracker), [Team Profile Generator](https://github.com/twashke/Team-Profile-Generator), and [README Generator](https://github.com/twashke/README-Generator)).
+- The **Work** section has been updated with the most recent group project [Happy Little Art Gallery](https://happylittleartgallery072021.herokuapp.com/) and more recent homework assignments ([Employee Tracker](https://github.com/twashke/Employee-Tracker), [Team Profile Generator](https://github.com/twashke/Team-Profile-Generator), and [README Generator](https://github.com/twashke/README-Generator)).
 - Built with the following technologies:
   - [Bulma](https://bulma.io/documentation/)
   - [Google Fonts](https://fonts.google.com/)
@@ -48,7 +48,30 @@ A portfolio website about [Tiffany Washke](https://twashke.github.io/Tiffany-Was
   - LinkedIn image, opens up personal LinkedIn website.
   - Github image, opens up personal Github Repository.
 
-![Tiffany Washke Portfolio Update]()
+\
+Mobile Design \
+![Mobile Design](Assets/images/mobile-design.jpeg)
+\
+Updated **Work** Section \
+![Updated Work Section](Assets/images/updated-work-section.png)
+\
+[Happy Little Art Gallery](https://happylittleartgallery072021.herokuapp.com/) included in **Work** Section \
+![Happy Little Art Gallery](Assets/images/happy-little-art-gallery.png)
+\
+[Employee Tracker](https://github.com/twashke/Employee-Tracker) included in **Work** Section \
+![Employee Tracker](Assets/images/employee-tracker-example.png)
+\
+[Team Profile Generator](https://github.com/twashke/Team-Profile-Generator) included in **Work** Section \
+![Team Profile Generator](Assets/images/team-profile-example.png)
+\
+[README Generator](https://github.com/twashke/README-Generator) included in **Work** Section \
+![README Generator](Assets/images/README-generator.png)
+\
+Updated **Resume** Section \
+![Mobile Resume Section](Assets/images/updated-resume-section.png)
+\
+**Contact** Section \
+![Contact Section](Assets/images/contact-me-section.png)
 
 ## Contributing
 
